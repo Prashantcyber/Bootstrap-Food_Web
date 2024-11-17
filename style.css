@@ -249,7 +249,7 @@ body {
 
  .top-banner {
     width: 100%;
-    background: url('./img/bg/bg-1.jpg') no-repeat center;
+    background: url(img/bg/bg-1.jpg) no-repeat center;
     background-size: cover;
     padding:16.875rem 0 9.375rem;
  }
