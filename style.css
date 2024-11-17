@@ -328,7 +328,7 @@ body {
 .story-section{
    width: 100%;
    height: 28.125rem;
-   background: url(bg-2.jpg) no-repeat center;
+   background: url('./bg-2.jpg') no-repeat center;
    background-size: cover;
    padding-top: 100px;
    text-align: center;
@@ -431,7 +431,7 @@ body {
 */
 .book-food{
    width: 100%;
-   background: url(bg-3.jpg) no-repeat center;
+   background: url('./bg-3.jpg') no-repeat center;
    background-size: cover;
    background-attachment: fixed;
    background-position: 0 71.9125px;
